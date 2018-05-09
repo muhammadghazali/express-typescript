@@ -16,6 +16,7 @@
     "@types/morgan": "^1.7.35",
     "@types/node": "^8.10.13",
     "@types/pug": "^2.0.4",
+    "axios": "^0.18.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
